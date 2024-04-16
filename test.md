@@ -318,4 +318,4 @@ sudo mount /dev/mapper/dljavladlena-mylv /mnt/my_mount_point
 Даже два реквкста по задаче
 ycilffffffffffffffffffffff
 
-iph''''''
+iph''''''yufgiil;lioug
